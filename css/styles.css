@@ -1,0 +1,59 @@
+body{
+  background-color: olive;
+}
+
+.main-header{
+  width:100%;
+  height:450px;
+  background-color:olive;
+}
+
+.main-container{
+  width:100%;
+  height: 1590px;
+  background-color: beige;
+  position: relative;
+}
+
+.box-one{
+  position: absolute;
+  top: 50px;
+  left:110px;
+  width: 750px;
+  height: 600px;
+  background-color: #ddd;
+}
+
+#heading{
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 100px;
+  color: #555456;
+  position:absolute;
+  top: -39px;
+  left: 200px;
+}
+
+#numerical{
+  padding: 10px 45px;
+  font-size: 144px;
+  color: #f3fff2;
+  opacity: 0.5;
+}
+
+.box-two{
+  position: absolute;
+  top: 250px;
+  left:990px;
+  width: 750px;
+  height: 600px;
+  background-color: #ddd;
+}
+
+.box-three{
+  position: absolute;
+  top: 840px;
+  left:110px;
+  width: 750px;
+  height: 600px;
+  background-color: #ddd;
+}
